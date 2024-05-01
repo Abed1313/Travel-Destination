@@ -2,7 +2,7 @@ import Header from '../header/Header.js';
 import Footer from '../footer/Footer.js';
 import Tours from '../tours/Tours.js';
 
-const travelData = require('/home/abdelradwan/travel-destination/src/data/db.json')
+const travelData = require('../../data/db.json')
 
 function Home (){
     console.log(travelData[0])
