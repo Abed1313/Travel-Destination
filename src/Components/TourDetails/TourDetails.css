@@ -1,0 +1,37 @@
+/* Styles for TourDet component */
+
+.TourDet {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Heading */
+  .name {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  /* Image */
+  .img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Info */
+  .info {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Price */
+  .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
